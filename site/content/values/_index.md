@@ -20,7 +20,7 @@ values:
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "Sustainable farming"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
+      Sustainable tagriculture is farming in sustainable ways based on
       an understanding of ecosystem services, the study of
       relationships between organisms and their environment. What
       grows where and how it is grown are a matter of choice and
